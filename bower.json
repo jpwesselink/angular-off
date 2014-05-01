@@ -1,9 +1,10 @@
 {
   "name": "angular-off",
-  "version": "0.0.1",
-  "homepage": "https://github.com/gdi2290/angular-off",
+  "version": "0.0.2",
+  "homepage": "https://github.com/jpwesselink/angular-off",
   "authors": [
-    "gdi2290 <github@gdi2290.com>"
+    "gdi2290 <github@gdi2290.com>",
+    "jpwesselink <jpwesselink@gmail.com"
   ],
   "main": "angular-off.js",
   "description": "Providing the method $off for $rootScope in Angular.js",
